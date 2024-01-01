@@ -2,7 +2,7 @@
 The end goal is to simulate different blackjack strategies against a sandbox game enviroment, capture some useful data about said strategies, and maybe, just maybe, make some useful analysis of the data found.
 
 ## Current Functionality
-- Base Blackjack 1v1 game mechanics and loop
+- Base Blackjack game mechanics and loop
 
 ## Future Functionality
 - Create a game sandbox enviroment where multiple sims can be run to gather data.
