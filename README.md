@@ -3,12 +3,15 @@ The end goal is to simulate different blackjack strategies against a sandbox gam
 
 ## Current Functionality
 - Base Blackjack 1v1 game mechanics and loop
+- A game sandbox enviroment where multiple sims can be run to gather data.
+- A bot that plays blackjack with different card counting strategies, then track the stats of game's played by the bot.
 
 ## Future Functionality
-- Create a game sandbox enviroment where multiple sims can be run to gather data.
-- Create a bot that plays blackjack with no strategy, then track the stats of game's played by the bot.
+- Gather more data on different / more complex data
 - We'll get there...
 
+## First Analysis
+![First Analaysis Graph - Winrate](Blackjack_Sim/Blackjack_Analysis.png)
 ```
 # ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 # ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
