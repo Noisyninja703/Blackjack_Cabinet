@@ -8,6 +8,7 @@ The end goal is to simulate different blackjack strategies against a sandbox gam
 
 ## Future Functionality
 - Gather more data on different / more complex data
+- Refine the accuracy of existing datapoints
 - We'll get there...
 
 ## First Analysis
