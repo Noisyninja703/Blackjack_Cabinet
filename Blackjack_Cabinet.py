@@ -302,8 +302,11 @@ def create_cc_matrix():
             6: 'Halves',
             7: 'Zen Count',
             8: 'No Strategy'}, inplace=True)
+    return df
 #endregion
 
 #region Start Game
-play_blackjack()
+#play_blackjack()
+df = create_cc_matrix()
+print(df)
 #endregion
