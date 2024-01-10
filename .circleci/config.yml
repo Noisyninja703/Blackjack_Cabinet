@@ -22,7 +22,7 @@ jobs:
     working_directory: ~/build
     docker:
       - image: sonarsource/sonar-scanner-cli
-    resource_class: small
+    resource_class: medium
     steps:
       - run: apk update
       - run: apk upgrade
